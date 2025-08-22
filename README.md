@@ -2,9 +2,9 @@
     2
     3 Aquí puedes ver una demostración de la interactividad de la aplicación:
     4
-    5 ![Demostración de la aplicación 1](imagen gcp.jpg)
+    5 ![Demostración de la aplicación 1](Imagen gcp.jpg)
     6
-    7 ![Demostración de la aplicación 2](imagen gcp2.jpg)
+    7 ![Demostración de la aplicación 2](Imagen gcp2.jpg)
     8
     9 ## Cómo ejecutarlo (localmente)
    10
@@ -13,7 +13,6 @@
      cd nombre-de-tu-repositorio
    1 2. Instala las dependencias:
      pip install -r requirements.txt
-
    1 3. Ejecuta la aplicación:
      python main.py
 
@@ -26,4 +25,4 @@
      (https://codelabs.developers.google.com/codelabs/cloud-run/cloud-run-hello-gradio?hl=es_419#6)
    7
    8 ---
-   9 Desarrollado por [edwinfer22]
+   9 Desarrollado por [Edwinfer22]
